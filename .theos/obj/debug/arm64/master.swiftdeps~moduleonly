@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
-options: "8f9d10475bbced771484f1a993e318f0"
-build_time: [1617817983, 401398000]
-inputs:
-  "Sources/Passless/Tweak.x.swift": [1617816851, 228682280]
-  "/Users/harperch/Documents/Projects/passless/.theos/obj/debug/arm64/generated/Passless.xc.swift": [1617817983, 248070301]
