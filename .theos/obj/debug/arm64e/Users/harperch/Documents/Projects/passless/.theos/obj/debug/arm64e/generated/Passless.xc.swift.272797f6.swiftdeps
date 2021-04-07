@@ -1,0 +1,255 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "orion_init"
+provides-nominal:
+- "8Passless18SBBootDefaultsHookC5_GlueO"
+- "8Passless18SBBootDefaultsHookC5_GlueO8OrigTypeC"
+- "8Passless18SBBootDefaultsHookC5_GlueO8SuprTypeC"
+provides-member:
+- ["8Passless18SBBootDefaultsHookC", ""]
+- ["8Passless18SBBootDefaultsHookC5_GlueO", ""]
+- ["8Passless18SBBootDefaultsHookC5_GlueO8OrigTypeC", ""]
+- ["8Passless18SBBootDefaultsHookC5_GlueO8SuprTypeC", ""]
+- ["8Passless18SBBootDefaultsHookC", "_Glue"]
+provides-dynamic-lookup:
+- "dontLockAfterCrash"
+depends-top-level:
+- !private "Array"
+- !private "AssignmentPrecedence"
+- !private "Backends"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- !private "DefaultTweak"
+- "SBBootDefaultsHook"
+- "Selector"
+- "Target"
+- "UnsafeRawPointer"
+- "_Glue"
+- "_GlueClassHook"
+- "_GlueClassHookBuilder"
+- "_GlueClassHookTrampoline"
+- !private "callSuper"
+- "initializeStorage"
+- "orion_init"
+- "orion_orig1"
+- !private "orion_sel1"
+- !private "target"
+depends-member:
+- !private ["5Orion7AnyHookP", "Glue"]
+- ["5Orion7AnyHookP", "GlueClassHookTrampoline"]
+- ["5Orion7AnyHookP", "SBBootDefaultsHook"]
+- ["5Orion7AnyHookP", "Target"]
+- ["5Orion7AnyHookP", ""]
+- !private ["5Orion7AnyHookP", "_Glue"]
+- ["5Orion7AnyHookP", "_GlueClassHookTrampoline"]
+- !private ["5Orion7AnyHookP", "callSuper"]
+- ["5Orion7AnyHookP", "dontLockAfterCrash"]
+- ["5Orion7AnyHookP", "init"]
+- ["5Orion7AnyHookP", "initializeStorage"]
+- !private ["5Orion7AnyHookP", "orion_orig1"]
+- !private ["5Orion7AnyHookP", "orion_sel1"]
+- !private ["5Orion7AnyHookP", "target"]
+- !private ["5Orion7BackendP", ""]
+- !private ["5Orion7BackendP", "init"]
+- !private ["5Orion8BackendsO", "Substrate"]
+- ["5Orion09ClassHookB0C", "Bool"]
+- !private ["5Orion09ClassHookB0C", "Glue"]
+- ["5Orion09ClassHookB0C", "GlueClassHook"]
+- ["5Orion09ClassHookB0C", "GlueClassHookBuilder"]
+- ["5Orion09ClassHookB0C", "GlueClassHookTrampoline"]
+- ["5Orion09ClassHookB0C", "SBBootDefaultsHook"]
+- ["5Orion09ClassHookB0C", "Selector"]
+- ["5Orion09ClassHookB0C", "Target"]
+- !private ["5Orion09ClassHookB0C", "UnsafeRawPointer"]
+- ["5Orion09ClassHookB0C", ""]
+- !private ["5Orion09ClassHookB0C", "_Glue"]
+- ["5Orion09ClassHookB0C", "_GlueClassHook"]
+- ["5Orion09ClassHookB0C", "_GlueClassHookBuilder"]
+- ["5Orion09ClassHookB0C", "_GlueClassHookTrampoline"]
+- !private ["5Orion09ClassHookB0C", "callSuper"]
+- ["5Orion09ClassHookB0C", "dontLockAfterCrash"]
+- ["5Orion09ClassHookB0C", "init"]
+- ["5Orion09ClassHookB0C", "initializeStorage"]
+- !private ["5Orion09ClassHookB0C", "orion_orig1"]
+- !private ["5Orion09ClassHookB0C", "orion_sel1"]
+- !private ["5Orion09ClassHookB0C", "target"]
+- !private ["5Orion17ClassHookProtocolP", "Glue"]
+- ["5Orion17ClassHookProtocolP", "GlueClassHookTrampoline"]
+- ["5Orion17ClassHookProtocolP", "HookType"]
+- ["5Orion17ClassHookProtocolP", "SBBootDefaultsHook"]
+- ["5Orion17ClassHookProtocolP", "Target"]
+- ["5Orion17ClassHookProtocolP", ""]
+- !private ["5Orion17ClassHookProtocolP", "_Glue"]
+- ["5Orion17ClassHookProtocolP", "_GlueClassHookTrampoline"]
+- !private ["5Orion17ClassHookProtocolP", "callSuper"]
+- ["5Orion17ClassHookProtocolP", "dontLockAfterCrash"]
+- ["5Orion17ClassHookProtocolP", "init"]
+- ["5Orion17ClassHookProtocolP", "initializeStorage"]
+- !private ["5Orion17ClassHookProtocolP", "orion_orig1"]
+- !private ["5Orion17ClassHookProtocolP", "orion_sel1"]
+- !private ["5Orion17ClassHookProtocolP", "target"]
+- !private ["5Orion14DefaultBackendP", "init"]
+- !private ["5Orion12DefaultTweakV", "activate"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO8OrigTypeC", "Bool"]
+- !private ["8Passless18SBBootDefaultsHookC5_GlueO8OrigTypeC", "Glue"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO8OrigTypeC", ""]
+- !private ["8Passless18SBBootDefaultsHookC5_GlueO8OrigTypeC", "_Glue"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO8OrigTypeC", "deinit"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO8OrigTypeC", "dontLockAfterCrash"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO8OrigTypeC", "init"]
+- !private ["8Passless18SBBootDefaultsHookC5_GlueO8OrigTypeC", "target"]
+- ["8Passless18SBBootDefaultsHookC", "Bool"]
+- !private ["8Passless18SBBootDefaultsHookC", "Glue"]
+- ["8Passless18SBBootDefaultsHookC", "GlueClassHook"]
+- ["8Passless18SBBootDefaultsHookC", "GlueClassHookBuilder"]
+- ["8Passless18SBBootDefaultsHookC", "GlueClassHookTrampoline"]
+- ["8Passless18SBBootDefaultsHookC", "SBBootDefaultsHook"]
+- ["8Passless18SBBootDefaultsHookC", "Selector"]
+- ["8Passless18SBBootDefaultsHookC", "Target"]
+- !private ["8Passless18SBBootDefaultsHookC", "UnsafeRawPointer"]
+- ["8Passless18SBBootDefaultsHookC", ""]
+- ["8Passless18SBBootDefaultsHookC", "_Glue"]
+- ["8Passless18SBBootDefaultsHookC", "_GlueClassHook"]
+- ["8Passless18SBBootDefaultsHookC", "_GlueClassHookBuilder"]
+- ["8Passless18SBBootDefaultsHookC", "_GlueClassHookTrampoline"]
+- !private ["8Passless18SBBootDefaultsHookC", "callSuper"]
+- ["8Passless18SBBootDefaultsHookC", "dontLockAfterCrash"]
+- ["8Passless18SBBootDefaultsHookC", "init"]
+- ["8Passless18SBBootDefaultsHookC", "initializeStorage"]
+- !private ["8Passless18SBBootDefaultsHookC", "orion_orig1"]
+- !private ["8Passless18SBBootDefaultsHookC", "orion_sel1"]
+- !private ["8Passless18SBBootDefaultsHookC", "target"]
+- !private ["5Orion8BackendsO9SubstrateV", "init"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO8SuprTypeC", "Bool"]
+- !private ["8Passless18SBBootDefaultsHookC5_GlueO8SuprTypeC", "Glue"]
+- !private ["8Passless18SBBootDefaultsHookC5_GlueO8SuprTypeC", "Selector"]
+- !private ["8Passless18SBBootDefaultsHookC5_GlueO8SuprTypeC", "UnsafeRawPointer"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO8SuprTypeC", ""]
+- !private ["8Passless18SBBootDefaultsHookC5_GlueO8SuprTypeC", "_Glue"]
+- !private ["8Passless18SBBootDefaultsHookC5_GlueO8SuprTypeC", "callSuper"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO8SuprTypeC", "deinit"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO8SuprTypeC", "dontLockAfterCrash"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO8SuprTypeC", "init"]
+- !private ["5Orion5TweakP", "activate"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO", "Bool"]
+- !private ["8Passless18SBBootDefaultsHookC5_GlueO", "Glue"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO", "GlueClassHookBuilder"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO", "GlueClassHookTrampoline"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO", "HookType"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO", "OrigType"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO", "SBBootDefaultsHook"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO", "Selector"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO", "SuprType"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO", "Target"]
+- !private ["8Passless18SBBootDefaultsHookC5_GlueO", "UnsafeRawPointer"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO", ""]
+- !private ["8Passless18SBBootDefaultsHookC5_GlueO", "_Glue"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO", "_GlueClassHookBuilder"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO", "_GlueClassHookTrampoline"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO", "activate"]
+- !private ["8Passless18SBBootDefaultsHookC5_GlueO", "callSuper"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO", "groupType"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO", "hookDidActivate"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO", "hookWillActivate"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO", "initializeStorage"]
+- !private ["8Passless18SBBootDefaultsHookC5_GlueO", "orion_orig1"]
+- !private ["8Passless18SBBootDefaultsHookC5_GlueO", "orion_sel1"]
+- ["8Passless18SBBootDefaultsHookC5_GlueO", "storage"]
+- !private ["8Passless18SBBootDefaultsHookC5_GlueO", "target"]
+- !private ["5Orion12_GlueAnyHookP", "Glue"]
+- ["5Orion12_GlueAnyHookP", "GlueClassHookTrampoline"]
+- ["5Orion12_GlueAnyHookP", "HookType"]
+- ["5Orion12_GlueAnyHookP", "OrigType"]
+- ["5Orion12_GlueAnyHookP", "SBBootDefaultsHook"]
+- ["5Orion12_GlueAnyHookP", "SuprType"]
+- ["5Orion12_GlueAnyHookP", "Target"]
+- ["5Orion12_GlueAnyHookP", ""]
+- !private ["5Orion12_GlueAnyHookP", "_Glue"]
+- ["5Orion12_GlueAnyHookP", "_GlueClassHookTrampoline"]
+- ["5Orion12_GlueAnyHookP", "activate"]
+- !private ["5Orion12_GlueAnyHookP", "callSuper"]
+- ["5Orion12_GlueAnyHookP", "groupType"]
+- ["5Orion12_GlueAnyHookP", "hookDidActivate"]
+- ["5Orion12_GlueAnyHookP", "hookWillActivate"]
+- ["5Orion12_GlueAnyHookP", "initializeStorage"]
+- !private ["5Orion12_GlueAnyHookP", "orion_orig1"]
+- !private ["5Orion12_GlueAnyHookP", "orion_sel1"]
+- ["5Orion12_GlueAnyHookP", "storage"]
+- !private ["5Orion12_GlueAnyHookP", "target"]
+- !private ["5Orion14_GlueClassHookP", "Glue"]
+- ["5Orion14_GlueClassHookP", "GlueClassHookTrampoline"]
+- ["5Orion14_GlueClassHookP", "HookType"]
+- ["5Orion14_GlueClassHookP", "OrigType"]
+- ["5Orion14_GlueClassHookP", "SBBootDefaultsHook"]
+- ["5Orion14_GlueClassHookP", "SuprType"]
+- ["5Orion14_GlueClassHookP", "Target"]
+- ["5Orion14_GlueClassHookP", ""]
+- !private ["5Orion14_GlueClassHookP", "_Glue"]
+- ["5Orion14_GlueClassHookP", "_GlueClassHookTrampoline"]
+- ["5Orion14_GlueClassHookP", "activate"]
+- !private ["5Orion14_GlueClassHookP", "callSuper"]
+- ["5Orion14_GlueClassHookP", "groupType"]
+- ["5Orion14_GlueClassHookP", "hookDidActivate"]
+- ["5Orion14_GlueClassHookP", "hookWillActivate"]
+- ["5Orion14_GlueClassHookP", "initializeStorage"]
+- !private ["5Orion14_GlueClassHookP", "orion_orig1"]
+- !private ["5Orion14_GlueClassHookP", "orion_sel1"]
+- ["5Orion14_GlueClassHookP", "storage"]
+- !private ["5Orion14_GlueClassHookP", "target"]
+- !private ["5Orion21_GlueClassHookBuilderV", "addHook"]
+- !private ["5Orion24_GlueClassHookTrampolineP", "Glue"]
+- ["5Orion24_GlueClassHookTrampolineP", ""]
+- !private ["5Orion24_GlueClassHookTrampolineP", "_Glue"]
+- !private ["5Orion24_GlueClassHookTrampolineP", "callSuper"]
+- !private ["5Orion24_GlueClassHookTrampolineP", "dontLockAfterCrash"]
+- !private ["5Orion24_GlueClassHookTrampolineP", "target"]
+depends-nominal:
+- "5Orion7AnyHookP"
+- !private "5Orion7BackendP"
+- !private "5Orion8BackendsO"
+- "5Orion09ClassHookB0C"
+- "5Orion17ClassHookProtocolP"
+- !private "5Orion14DefaultBackendP"
+- !private "5Orion12DefaultTweakV"
+- !private "s25ExpressibleByArrayLiteralP"
+- "8Passless18SBBootDefaultsHookC5_GlueO8OrigTypeC"
+- "8Passless18SBBootDefaultsHookC"
+- !private "5Orion8BackendsO9SubstrateV"
+- "8Passless18SBBootDefaultsHookC5_GlueO8SuprTypeC"
+- !private "5Orion5TweakP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "8Passless18SBBootDefaultsHookC5_GlueO"
+- "5Orion12_GlueAnyHookP"
+- "5Orion14_GlueClassHookP"
+- !private "5Orion21_GlueClassHookBuilderV"
+- "5Orion24_GlueClassHookTrampolineP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/harperch/theos/vendor/lib/Orion.framework/Modules/Orion.swiftmodule/arm64e-apple-ios.swiftinterface"
+- "/Users/harperch/theos/vendor/lib/Orion.framework/Headers/dealloc.h"
+- "/Users/harperch/Documents/Projects/passless/Sources/PasslessC/include/Tweak.h"
+- "/Users/harperch/theos/vendor/lib/Orion.framework/Headers/Orion.h"
+- "/Users/harperch/theos/vendor/lib/Orion.framework/Headers/super.h"
+- "/Users/harperch/theos/vendor/lib/Orion.framework/Headers/Orion-Swift.h"
+- "/Users/harperch/theos/vendor/lib/Orion.framework/Headers/init.h"
+- "/Users/harperch/theos/sdks/iPhoneOS14.4.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/harperch/Documents/Projects/widgetloader/Sources/WidgetLoaderC/include/module.modulemap"
+- "/Users/harperch/Documents/Projects/passless/Sources/PasslessC/include/module.modulemap"
+- "/Users/harperch/theos/vendor/include/Flipswitch/module.modulemap"
+- "/Users/harperch/theos/vendor/include/rocketbootstrap/module.modulemap"
+- "/Users/harperch/theos/vendor/include/libactivator/module.modulemap"
+- "/Users/harperch/theos/vendor/include/Preferences/module.modulemap"
+- "/Users/harperch/theos/vendor/lib/Orion.framework/Modules/module.modulemap"
+- "/Users/harperch/theos/vendor/include/libprefs/module.modulemap"
+- "/Users/harperch/theos/vendor/include/AppList/module.modulemap"
+- "/Users/harperch/theos/sdks/iPhoneOS14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Users/harperch/theos/sdks/iPhoneOS14.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Users/harperch/theos/sdks/iPhoneOS14.4.sdk/usr/include/Darwin.apinotes"
+- "/Users/harperch/theos/sdks/iPhoneOS14.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Users/harperch/theos/sdks/iPhoneOS14.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Users/harperch/theos/sdks/iPhoneOS14.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "3753a176c253aaa8bfa7df9f080119a3"

@@ -1,0 +1,9 @@
+Package: com.simalary.passless
+Name: Passless
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Disable the passcode after resprings.
+Maintainer: Chris Harper (Simalary) <19harperc@gmail.com>
+Author: Chris Harper (Simalary) <19harperc@gmail.com>
+Section: Tweaks
+Depends: ${ORION}, firmware (>= 14.0)
