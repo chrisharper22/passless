@@ -1,6 +1,6 @@
 Package: com.simalary.passless
 Name: Passless
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: Disable the passcode after resprings.
 Maintainer: Chris Harper (Simalary) <19harperc@gmail.com>
